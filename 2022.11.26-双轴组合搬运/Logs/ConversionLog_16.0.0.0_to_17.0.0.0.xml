@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="1.简易传送带控制程序-1200_V17" typeText="类型" messageText="消息" timeText="时间">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:55:51">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="已开始升级" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2022/10/17 20:55:52" Debug="false">
+    <Text>Reorganization succeed!</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:55:52">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair lost+found objects" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2022/10/17 20:55:53" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:55:53">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair missing bidirectional links" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2022/10/17 20:55:53" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:55:53">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair clear segment flags" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2022/10/17 20:55:53" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:56:00">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="用户已使用所需的工程组态权限“ERROR: ResourceID 'ProjectManager.UpgradeProject' not found in resource of type Siemens.Automation.Umac.Resources.AccessControl.Administration.EngineeringRightsResources”登录。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:56:00">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Starting removal of system role assignments compatibility from system device function rights" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:56:00">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Finished removal of system role assignments compatibility from system device function rights" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:56:00">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="正在移除旧的系统角色。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:56:00">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="移除旧的系统角色操作已完成。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:56:00">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="开始更改 DFR 与 DFRSet 之间的关联" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:56:00">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="更改 DFR 与 DFRSet 之间的关联已完成" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2022/10/17 20:56:07">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC_1\ProgramBlocksFolder\MHJ-PLC-Lab-Function-S71200”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2022/10/17 20:56:07">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC_1\ProgramBlocksFolder\Main”- “General; Event”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:56:08">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="正在转换交叉引用信息。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:56:09">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="交叉引用信息已成功创建." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:56:09">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="交叉引用信息转换完成。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2022/10/17 20:56:09" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Lang.S7BSW.V16.0.0.0.NonMandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2022/10/17 20:56:09" Debug="false">
+    <Text>Package container 'HW.S71200.CPU.V4.CPU_1211C.MDD_6ES7211-1AE40-0XB0_4.1_14.0.0' was deleted</Text>
+  </Details>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="2022/10/17 20:56:10">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="项目“E:\MYF\1.简易传送带控制程序-1200\System\PEData.plf”已成功升级并另存为项目“E:\MYF\1.简易传送带控制程序-1200_V17\System\PEData.plf”。" />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2022/10/17 20:56:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="FinalCheckRemainingErrors" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2022/10/17 20:56:10" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+</LogFile>
